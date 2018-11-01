@@ -137,5 +137,139 @@
       "created": 01112018,
       "modified": 01112018 
     }
+  ],
+  "tickets": [
+    { 
+      "id": 1, 
+      "user_id": 1, 
+      "vehicle_id": 1,
+      "parklot_id": 1,
+      "type": "",
+      "value": 2,
+      "total_value": 2,
+      "status": "idle",
+      "created": 01112018,
+      "modified": 01112018,
+      "iniciohorario": 1200,
+      "fimhorario": 1300,
+      "tempopermanencia": "01 hora" 
+    },
+    { 
+      "id": 1, 
+      "user_id": 1, 
+      "vehicle_id": 1,
+      "parklot_id": 1,
+      "type": "",
+      "value": 2,
+      "total_value": 2,
+      "status": "idle",
+      "created": 01112018,
+      "modified": 01112018,
+      "iniciohorario": 1200,
+      "fimhorario": 1300,
+      "tempopermanencia": "01 hora" 
+    },
+    { 
+      "id": 1, 
+      "user_id": 1, 
+      "vehicle_id": 1,
+      "parklot_id": 1,
+      "type": "",
+      "value": 2,
+      "total_value": 2,
+      "status": "idle",
+      "created": 01112018,
+      "modified": 01112018,
+      "iniciohorario": 1200,
+      "fimhorario": 1300,
+      "tempopermanencia": "01 hora" 
+    },
+    { 
+      "id": 1, 
+      "user_id": 1, 
+      "vehicle_id": 1,
+      "parklot_id": 1,
+      "type": "",
+      "value": 2,
+      "total_value": 2,
+      "status": "idle",
+      "created": 01112018,
+      "modified": 01112018,
+      "iniciohorario": 1200,
+      "fimhorario": 1300,
+      "tempopermanencia": "01 hora" 
+    }
+  ],
+  "parklots": [
+    {
+      "id": 1,
+      "type": "",
+      "name": "Base Coworking",
+      "lat": "-27.59342632",
+      "lng": "-48.49949574",
+      "description": "Estacionamento Base Coworking",
+      "value": 2,
+      "amount": null,
+      "max_time": "12 horas",
+      "created": 30102018,
+      "modified": 30102018
+    }
+  ],
+  "logs": [
+    {
+      "id": 1,
+      "type": "",
+      "user_id": 2,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": 01112018,
+      "modified": 01112018
+    },
+    {
+      "id": 2,
+      "type": "",
+      "user_id": 2,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": 01112018,
+      "modified": 01112018
+    },
+    {
+      "id": 3,
+      "type": "",
+      "user_id": 3,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": 01112018,
+      "modified": 01112018
+    },
+    {
+      "id": 4,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": 01112018,
+      "modified": 01112018
+    },
+    {
+      "id": 5,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": 01112018,
+      "modified": 01112018
+    }
   ]
 }
