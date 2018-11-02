@@ -5,13 +5,13 @@
       "type": "usuario",
       "name": "ivam",
       "email": "ivam@gmail.com",
-      "cpf": 07344222027,
+      "cpf": "07344222027",
       "password": 123456,
-      "birtdate": 15091979,
+      "birtdate": "15091979",
       "phone": 986124578,
       "balance": 545,
-      "created": 01112018,
-      "modified": 01112018
+      "created": "01112018",
+      "modified": "01112018"
     }
   ]
 }
