@@ -1,43 +1,14 @@
 {
-  "users": [
-    { 
-      "id": 1, 
-      "type": "usuario",
-      "name": "ivam",
-      "email": "ivam.developer@gmail.com",
-      "cpf": 07344222027,
-      "password": 123456,
-      "birtdate": 15091979,
-      "phone": 986124578,
-      "balance": 545,
-      "created": 01112018,
-      "modified": 01112018
-    },
-    { 
-      "id": 2, 
-      "type": "usuario",
-      "name": "gabriel",
-      "email": "gabriel@gmail.com",
-      "cpf": 36318977074,
-      "password": 456789,
-      "birtdate": 17121981,
-      "phone": 982109552,
-      "balance": 125,
-      "created": 31102018,
-      "modified": 31102018  
-    },
-    { 
-      "id": 3, 
-      "type": "usuario",
-      "name": "rodrigo",
-      "email": "rodrigo@gmail.com",
-      "cpf": 58512891041,
-      "password": 789123,
-      "birtdate": 09071978,
-      "phone": 988915478,
-      "balance": 1024,
-      "created": 01112018,
-      "modified": 01112018 
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
