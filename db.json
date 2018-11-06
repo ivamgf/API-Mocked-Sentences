@@ -12,32 +12,6 @@
       "balance": 545,
       "created": "01112018",
       "modified": "01112018"
-    },
-    { 
-      "id": 2, 
-      "type": "usuario",
-      "name": "gabriel",
-      "email": "gabriel@gmail.com",
-      "cpfcnpj": "36318977074",
-      "password": 456789,
-      "birtdate": "17121981",
-      "phone": 982109552,
-      "balance": 125,
-      "created": "31102018",
-      "modified": "31102018"  
-    },
-    { 
-      "id": 3, 
-      "type": "usuario",
-      "name": "rodrigo",
-      "email": "rodrigo@gmail.com",
-      "cpfcnpj": "58512891041",
-      "password": 789123,
-      "birtdate": "09071978",
-      "phone": 988915478,
-      "balance": 1024,
-      "created": "01112018",
-      "modified": "01112018" 
     }
   ],
   "vehicles": [
