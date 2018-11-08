@@ -174,19 +174,60 @@
       "tempopermanencia": "01 hora" 
     }
   ],
-  "parklots": [
+  "logs": [
     {
       "id": 1,
       "type": "",
-      "name": "Base Coworking",
-      "lat": "-27.59342632",
-      "lng": "-48.49949574",
-      "description": "Estacionamento Base Coworking",
-      "value": 2,
-      "amount": null,
-      "max_time": "12 horas",
-      "created": "30102018",
-      "modified": "30102018"
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": "01112018",
+      "modified": "01112018"
+    },
+    {
+      "id": 2,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": "01112018",
+      "modified": "01112018"
+    },
+    {
+      "id": 3,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": "01112018",
+      "modified": "01112018"
+    },
+    {
+      "id": 4,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": "01112018",
+      "modified": "01112018"
+    },
+    {
+      "id": 5,
+      "type": "",
+      "user_id": 1,
+      "vehicle_id": null,
+      "parklot_id": null,
+      "name": "",
+      "description": "",
+      "created": "01112018",
+      "modified": "01112018"
     }
-  ]
 }
