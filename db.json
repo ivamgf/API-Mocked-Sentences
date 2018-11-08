@@ -28,7 +28,7 @@
     },
     { 
       "id": 2, 
-      "user_id": 2, 
+      "user_id": 1, 
       "type": 1,
       "name": "",
       "plate": "FLV-8912",
@@ -39,7 +39,7 @@
     },
     { 
       "id": 3, 
-      "user_id": 2, 
+      "user_id": 1, 
       "type": 1,
       "name": "",
       "plate": "GOF-9127",
@@ -50,7 +50,7 @@
     },
     { 
       "id": 4, 
-      "user_id": 3, 
+      "user_id": 1, 
       "type": 1,
       "name": "",
       "plate": "EGB-3248",
