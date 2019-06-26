@@ -1,234 +1,64 @@
 {
   "users": [
     { 
-      "id": 1, 
-      "type": "usuario",
-      "name": "ivam",
-      "email": "ivam@gmail.com",
-      "cpfcnpj": "07344222027",
-      "password": 123456,
-      "birtdate": "15091979",
-      "phone": 986124578,
-      "balance": 545,
-      "created": "01112018",
-      "modified": "01112018"
+      "id_users": 1, 
+      "id_auth": 1,
+      "us_email": "cauaeduardokevincosta@eletrotex.com.br",
+      "us_password": "7SKfwIDG",
+      "us_created": "26062019",
+      "us_modified": "26062019"
     }
   ],
-  "vehicles": [
+  "profiles": [
     { 
-      "id": 1, 
-      "user_id": 1, 
-      "type": "Automóvel",
-      "name": "",
-      "plate": "BAD-4512",
-      "model": "Logan",
-      "status": "inativo",
-      "created": "01112018",
-      "modified": "01112018" 
-    },
-    { 
-      "id": 2, 
-      "user_id": 1, 
-      "type": "Automóvel",
-      "name": "",
-      "plate": "FLV-8912",
-      "model": "Corsa",
-      "status": "ativo",
-      "created": "31102018",
-      "modified": "31102018" 
-    },
-    { 
-      "id": 3, 
-      "user_id": 1, 
-      "type": "Automóvel",
-      "name": "",
-      "plate": "GOF-9127",
-      "model": "Honda Civic",
-      "status": "inativo",
-      "created": "31102018",
-      "modified": "31102018" 
-    },
-    { 
-      "id": 4, 
-      "user_id": 1, 
-      "type": "Automóvel",
-      "name": "",
-      "plate": "EGB-3248",
-      "model": "Peugeot 2008",
-      "status": "ativo",
-      "created": "01112018",
-      "modified": "01112018" 
+      "id_profile": 1, 
+      "id_user": 1, 
+      "pf_name": "Cauã Eduardo Kevin Costa",
+      "pf_nickname": "caua_ekc",
+      "pf_picture": "https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_masc.png",
+      "pf_gender": "Masculino",
+      "pf_natId": "54953151976",
+      "pf_phone": "4827167482",
+      "pf_birthday": "12031984",
+      "pf_created": "26062019",
+      "pf_modified": "26062019"
     }
   ],
-  "orders": [
+  "address": [
     { 
-      "id": 1, 
-      "user_id": 1,
-      "code": "e10adc3949ba59abbe56e057f20f883e",
-      "type": 1,
-      "value": 50,
-      "status": "Processando",
-      "created": "01112018",
-      "modified": "01112018"
-    },
-    { 
-      "id": 2, 
-      "user_id": 1,
-      "code": "e35cf7b66449df565f93c607d5a81d09",
-      "type": 1,
-      "value": 20,
-      "status": "Cancelada",
-      "created": "01112018",
-      "modified": "01112018"  
-    },
-    { 
-      "id": 3, 
-      "user_id": 1,
-      "code": "0d06fd8cb26eb57f1a690f493663cc55",
-      "type": 1,
-      "value": 110,
-      "status": "Processando",
-      "created": "01112018",
-      "modified": "01112018" 
-    },
-    { 
-      "id": 4, 
-      "user_id": 1,
-      "code": "55587a910882016321201e6ebbc9f595",
-      "type": 1,
-      "value": 25,
-      "status": "Confirmada",
-      "created": "01112018",
-      "modified": "01112018"  
-    },
-    { 
-      "id": 5, 
-      "user_id": 1,
-      "code": "e99a18c428cb38d5f260853678922e03",
-      "type": 1,
-      "value": 50,
-      "status": "Confirmada",
-      "created": "01112018",
-      "modified": "01112018" 
+      "id_address": 1, 
+      "id_user": 1,
+      "as_address": "Servidão Silvino Izidoro Pires",
+      "as_number": 701,
+      "as_block": "Armação do Pântano do Sul",
+      "as_city": "Florianópolis",
+      "as_uf": "SC",
+      "as_complement": "casa",
+      "as_cep": 88066345,
+      "as_created": "26062019",
+      "as_modified": "26062019"
     }
   ],
-  "tickets": [
+  "cards": [
     { 
-      "id": 1, 
-      "user_id": 1, 
-      "vehicle_id": 1,
-      "parklot_id": 1,
-      "type": "",
-      "value": "2,00",
-      "total_value": 2,
-      "status": "idle",
-      "created": "01112018",
-      "modified": "01112018",
-      "iniciohorario": "1200",
-      "fimhorario": "1300",
-      "tempopermanencia": "01 hora" 
-    },
-    { 
-      "id": 1, 
-      "user_id": 1, 
-      "vehicle_id": 1,
-      "parklot_id": 1,
-      "type": "",
-      "value": "2,00",
-      "total_value": 2,
-      "status": "idle",
-      "created": "01112018",
-      "modified": "01112018",
-      "iniciohorario": "1200",
-      "fimhorario": "1300",
-      "tempopermanencia": "01 hora" 
-    },
-    { 
-      "id": 1, 
-      "user_id": 1, 
-      "vehicle_id": 1,
-      "parklot_id": 1,
-      "type": "",
-      "value": "2,00",
-      "total_value": 2,
-      "status": "idle",
-      "created": "01112018",
-      "modified": "01112018",
-      "iniciohorario": "1200",
-      "fimhorario": "1300",
-      "tempopermanencia": "01 hora" 
-    },
-    { 
-      "id": 1, 
-      "user_id": 1, 
-      "vehicle_id": 1,
-      "parklot_id": 1,
-      "type": "",
-      "value": "2,00",
-      "total_value": 2,
-      "status": "idle",
-      "created": "01112018",
-      "modified": "01112018",
-      "iniciohorario": "1200",
-      "fimhorario": "1300",
-      "tempopermanencia": "01 hora" 
+      "id_cards": "", 
+      "id_providers": "", 
+      "id_users": "",
+      "ca_name": "",
+      "ca_number": "",
+      "ca_validity": "",
+      "ca_cod": "",
+      "ca_brand": "",
+      "ca_created": "26062019",
+      "ca_modified": "26062019"
     }
   ],
-  "logs": [
+  "authorization": [
     {
-      "id": 1,
-      "type": "",
-      "user_id": 1,
-      "vehicle_id": "null",
-      "parklot_id": "null",
-      "name": "",
-      "description": "",
-      "created": "01112018",
-      "modified": "01112018"
-    },
-    {
-      "id": 2,
-      "type": "",
-      "user_id": 1,
-      "vehicle_id": "null",
-      "parklot_id": "null",
-      "name": "",
-      "description": "",
-      "created": "01112018",
-      "modified": "01112018"
-    },
-    {
-      "id": 3,
-      "type": "",
-      "user_id": 1,
-      "vehicle_id": "null",
-      "parklot_id": "null",
-      "name": "",
-      "description": "",
-      "created": "01112018",
-      "modified": "01112018"
-    },
-    {
-      "id": 4,
-      "type": "",
-      "user_id": 1,
-      "vehicle_id": "null",
-      "parklot_id": "null",
-      "name": "",
-      "description": "",
-      "created": "01112018",
-      "modified": "01112018"
-    },
-    {
-      "id": 5,
-      "type": "",
-      "user_id": 1,
-      "vehicle_id": "null",
-      "parklot_id": "null",
-      "name": "",
-      "description": "",
-      "created": "01112018",
-      "modified": "01112018"
+      "id_auth": 1,
+      "au_type": "",
+      "au_token_private": "",
+      "au_token_public": ""
     }
   ]
 }
