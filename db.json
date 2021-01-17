@@ -2,65 +2,17 @@
   "users": [
     { 
       "id_users": 1, 
-      "id_auth": 1,
-      "us_nickname": "caua_ekc",
+      "us_name": "caua eduardo kevin costa",
       "us_email": "cauaeduardokevincosta@eletrotex.com.br",
-      "us_password": "7SKfwIDG",
+      "us_phone": "4827167482",
+      "us_address": "Servidão Silvino Izidoro Pires",
+      "us_number": "157",
+      "us_city": "Florianópolis",
+      "us_province": "SC",
+      "us_postalCode: 88066345,
+      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
       "us_created": "26062019",
       "us_modified": "26062019"
-    }
-  ],
-  "profiles": [
-    { 
-      "id_profile": 1, 
-      "id_user": 1, 
-      "pf_name": "Cauã Eduardo Kevin Costa",
-      "pf_nickname": "caua_ekc",
-      "pf_picture": "https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_masc.png",
-      "pf_gender": "Masculino",
-      "pf_natId": "54953151976",
-      "pf_phone": "4827167482",
-      "pf_birthday": "12031984",
-      "pf_email": "cauaeduardokevincosta@eletrotex.com.br",
-      "pf_created": "26062019",
-      "pf_modified": "26062019"
-    }
-  ],
-  "address": [
-    { 
-      "id_address": 1, 
-      "id_user": 1,
-      "as_address": "Servidão Silvino Izidoro Pires",
-      "as_number": 701,
-      "as_block": "Armação do Pântano do Sul",
-      "as_city": "Florianópolis",
-      "as_uf": "SC",
-      "as_compl": "casa",
-      "as_cep": 88066345,
-      "as_created": "26062019",
-      "as_modified": "26062019"
-    }
-  ],
-  "cards": [
-    { 
-      "id_cards": "", 
-      "id_providers": "", 
-      "id_users": "",
-      "ca_name": "",
-      "ca_number": "",
-      "ca_validity": "",
-      "ca_cod": "",
-      "ca_brand": "",
-      "ca_created": "26062019",
-      "ca_modified": "26062019"
-    }
-  ],
-  "authorization": [
-    {
-      "id_auth": 1,
-      "au_type": "",
-      "au_token_private": "",
-      "au_token_public": ""
     }
   ]
 }
