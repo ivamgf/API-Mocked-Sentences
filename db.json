@@ -17,7 +17,7 @@
     { 
       "id_users": 2, 
       "us_name": "Cristiane Lívia Gonçalves",
-      "us_email": "cristianeliviagoncalves@bitco.cc",
+      "us_email": "cristianeliviagoncalves@bitco.com",
       "us_phone": "47999789092",
       "us_address": "Rua 2300",
       "us_number": 465,
@@ -27,6 +27,20 @@
       "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
       "us_created": "26062020",
       "us_modified": "26062020"
+    },
+    { 
+      "id_users": 3, 
+      "us_name": "Enzo Miguel César Oliveira",
+      "us_email": "enzomiguelcesaroliveira@abrangenciacorretora.com.br",
+      "us_phone": "41987744893",
+      "us_address": "Rua Professor Oscar Sanches Monteiro",
+      "us_number": 961,
+      "us_city": "Curitiba",
+      "us_province": "PR",
+      "us_postalCode": "81350606",
+      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
+      "us_created": "26062021",
+      "us_modified": "26062021"
     }
   ]
 }
