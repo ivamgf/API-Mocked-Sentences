@@ -6,13 +6,27 @@
       "us_email": "cauaeduardokevincosta@eletrotex.com.br",
       "us_phone": "4827167482",
       "us_address": "Servidão Silvino Izidoro Pires",
-      "us_number": "157",
+      "us_number": 157,
       "us_city": "Florianópolis",
       "us_province": "SC",
-      "us_postalCode": 88066345,
+      "us_postalCode": "88066345",
       "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
       "us_created": "26062019",
       "us_modified": "26062019"
+    },
+    { 
+      "id_users": 2, 
+      "us_name": "Cristiane Lívia Gonçalves",
+      "us_email": "cristianeliviagoncalves@bitco.cc",
+      "us_phone": "47999789092",
+      "us_address": "Rua 2300",
+      "us_number": 465,
+      "us_city": "Balneário Camboriú",
+      "us_province": "SC",
+      "us_postalCode": "88330430",
+      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
+      "us_created": "26062020",
+      "us_modified": "26062020"
     }
   ]
 }
