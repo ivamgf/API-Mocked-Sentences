@@ -1,14 +1,37 @@
 {
   "sentences": [
     { 
-      "id_sentence": 1, 
+      "id_sentence": 1,
+      "term": "Assédio Moral",
       "request": "apenas brincadeiras impertinentes que em nada se assemelham ao assédio moral ou sexual narrado.",
       "decision 1": "Descarto, de plano, a hipótese de subsunção do caso concreto à figura do assédio sexual, capitulado da seguinte forma no art. 216-A do Código Penal",
-      "decision 2": "não é qualquer constrangimento que pode configurar o delito de assédio sexual."
+      "decision 2": "não é qualquer constrangimento que pode configurar o delito de assédio sexual.",
+      "decision 3": "É essa também a noção que se tem na esfera civil ou trabalhista. Para se caracterizar a figura delituosa, é preciso que haja alguma ameaça, ainda que velada, por parte do superior hierárquico da vítima. ",
+      "decision 4": "Esse constrangimento deve ser entendido no sentido de a autora se ver ameaçada, diante da condição de empregada (ou de perder o emprego, ou de perder alguma vantagem dele decorrente).",
+      "decision 5": "Não há nos autos nenhuma evidência nesse sentido.",
+      "decision 6": "Já o assédio moral se caracteriza como um processo voltado para expor a vítima à humilhação. Não é uma conduta episódica. ",
+      "decision 7": "Os meros dissabores do dia a dia experimentados durante a relação de emprego, porém, ainda que se repitam, não podem ser tipificados como casos de assédio moral. ",
+      "decision 8": "ainda que absolutamente inapropriadas a qualquer ambiente de trabalho, não expuseram a autora diretamente a uma rotina humilhante ou vexatória, tampouco poderiam caracterizar efetiva perseguição.",
+      "decision 9": "Não obstante a postura dos empregados Sr. Nei e Sr. Paulinho tenha se mostrado censurável, não há elementos capazes de enquadrá-la como assédio moral ou sexual, muito menos de viabilizar uma responsabilização da empregadora pela reparação de danos atribuídos a essas figuras.",
+      "decision 10": "Dou provimento ao recurso para excluir a condenação ao pagamento da indenização por assédio moral/sexual.",
+      "decision 11": ""
     },
     { 
-      "id_sentence": 2, 
-      "request": "Pretende o integral afastamento da condenação e, subsidiariamente, a sua redução para o patamar de R$ 1.000,00."
+      "id_sentence": 2,
+      "term": "Assédio Moral",
+      "request": "Pretende o integral afastamento da condenação e, subsidiariamente, a sua redução para o patamar de R$ 1.000,00.",
+      "request": "apenas brincadeiras impertinentes que em nada se assemelham ao assédio moral ou sexual narrado.",
+      "decision 1": "Descarto, de plano, a hipótese de subsunção do caso concreto à figura do assédio sexual, capitulado da seguinte forma no art. 216-A do Código Penal",
+      "decision 2": "não é qualquer constrangimento que pode configurar o delito de assédio sexual.",
+      "decision 3": "É essa também a noção que se tem na esfera civil ou trabalhista. Para se caracterizar a figura delituosa, é preciso que haja alguma ameaça, ainda que velada, por parte do superior hierárquico da vítima. ",
+      "decision 4": "Esse constrangimento deve ser entendido no sentido de a autora se ver ameaçada, diante da condição de empregada (ou de perder o emprego, ou de perder alguma vantagem dele decorrente).",
+      "decision 5": "Não há nos autos nenhuma evidência nesse sentido.",
+      "decision 6": "Já o assédio moral se caracteriza como um processo voltado para expor a vítima à humilhação. Não é uma conduta episódica. ",
+      "decision 7": "Os meros dissabores do dia a dia experimentados durante a relação de emprego, porém, ainda que se repitam, não podem ser tipificados como casos de assédio moral. ",
+      "decision 8": "ainda que absolutamente inapropriadas a qualquer ambiente de trabalho, não expuseram a autora diretamente a uma rotina humilhante ou vexatória, tampouco poderiam caracterizar efetiva perseguição.",
+      "decision 9": "Não obstante a postura dos empregados Sr. Nei e Sr. Paulinho tenha se mostrado censurável, não há elementos capazes de enquadrá-la como assédio moral ou sexual, muito menos de viabilizar uma responsabilização da empregadora pela reparação de danos atribuídos a essas figuras.",
+      "decision 10": "Dou provimento ao recurso para excluir a condenação ao pagamento da indenização por assédio moral/sexual.",
+      "decision 11": ""
     }
   ]
 }
