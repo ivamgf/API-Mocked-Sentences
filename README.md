@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/ivamgf/demo](https://my-json-server.typicode.com/ivamgf/demo)
+[https://my-json-server.typicode.com/ivamgf/API-Mocked-Sentences](https://my-json-server.typicode.com/ivamgf/API-Mocked-Sentences)
 
 ## Use your own data
 
