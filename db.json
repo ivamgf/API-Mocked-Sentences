@@ -1,46 +1,23 @@
 {
-  "users": [
+  "sentences": [
     { 
-      "id_users": 1, 
-      "us_name": "caua eduardo kevin costa",
-      "us_email": "cauaeduardokevincosta@eletrotex.com.br",
-      "us_phone": "4827167482",
-      "us_address": "Servidão Silvino Izidoro Pires",
-      "us_number": 157,
-      "us_city": "Florianópolis",
-      "us_province": "SC",
-      "us_postalCode": "88066345",
-      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
-      "us_created": "26062019",
-      "us_modified": "26062019"
+      "id_sentence": 1, 
+      "request": "apenas brincadeiras impertinentes que em nada se assemelham ao assédio moral ou sexual narrado.",
+      "decision 1": "Descarto, de plano, a hipótese de subsunção do caso concreto à figura do assédio sexual, capitulado da seguinte forma no art. 216-A do Código Penal",
+      "decision 2": "não é qualquer constrangimento que pode configurar o delito de assédio sexual.",
+      "decision 3": "",
+      "decision 4": "",
+      "decision 5": "",
+      "decision 6": "",
+      "decision 7": "",
+      "decision 8": "",
+      "decision 9": "",
+      "decision 10": "",
+      "decision 11": "
     },
     { 
-      "id_users": 2, 
-      "us_name": "Cristiane Lívia Gonçalves",
-      "us_email": "cristianeliviagoncalves@bitco.com",
-      "us_phone": "47999789092",
-      "us_address": "Rua 2300",
-      "us_number": 465,
-      "us_city": "Balneário Camboriú",
-      "us_province": "SC",
-      "us_postalCode": "88330430",
-      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
-      "us_created": "26062020",
-      "us_modified": "26062020"
-    },
-    { 
-      "id_users": 3, 
-      "us_name": "Enzo Miguel César Oliveira",
-      "us_email": "enzomiguelcesaroliveira@abrangenciacorretora.com.br",
-      "us_phone": "41987744893",
-      "us_address": "Rua Professor Oscar Sanches Monteiro",
-      "us_number": 961,
-      "us_city": "Curitiba",
-      "us_province": "PR",
-      "us_postalCode": "81350606",
-      "us_picture": "http://www.testing-module.orkneytech.com.br/assets/images/user-avatar.png",
-      "us_created": "26062021",
-      "us_modified": "26062021"
+      "id_sentence": 2, 
+      "request": "Pretende o integral afastamento da condenação e, subsidiariamente, a sua redução para o patamar de R$ 1.000,00."
     }
   ]
 }
